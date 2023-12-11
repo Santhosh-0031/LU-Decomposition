@@ -53,7 +53,7 @@ print(x)
 ## Output:
 #### LU decomposition find L and U
 
-![Alt text](<Screenshot 2023-12-11 092421-1.png>)
+![Alt text](<Screenshot 2023-12-11 092421.png>)
 
 #### LU decomposition solve the matrix
 
